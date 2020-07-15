@@ -1,4 +1,5 @@
 #include<iostream>
+using namespace 123;
 int main(){
 	printf ("Hello World");
 	return 0;
