@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace 123;
+using namespace std;
 int main(){
 	printf ("Hello World");
 	return 0;
